@@ -1,0 +1,6 @@
+{
+    "name": "hailocab/geohash",
+    "autoload": {
+        "classmap": ["php/geohash.class.php"]
+    }
+}
